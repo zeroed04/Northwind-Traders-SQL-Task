@@ -12,3 +12,12 @@ In this repo I'm going to present my own Northwind SQL tasks using a Data Analys
   For this exercise we're gonna have to audit the deliveries one by one to find the information we need.
 
 [EXERCISE 2.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%202.sql)
+
+  ## Scenario #3
+
+  The COO wishes to know which countries are costing the most money to the company when they need to ship orders to them.
+  In this exercise the director also wants to know the average freight cost per country and the price difference between shipping companies.
+
+  [EXERCISE 3.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%203.sql)
+
+  ## Scenario #4 
