@@ -3,7 +3,8 @@ In this repo I'm going to present my own Northwind SQL tasks using a Data Analys
 
 # Northwind Exercises
   ## Scenario #1
-  The company has noticed that even though the overall sales volume remains stable, the net profit margin has been declining in recent quarters. The CFO suspects that the aggressive discounts provided by the sales     representatives to close corporate deals is affecting the company’s value, but he lacks evidence to prove it.
+  The company has noticed that even though the overall sales volume remains stable, the net profit margin has been declining in recent quarters. The CFO suspects that the aggressive discounts 
+  provided by the sales representatives to close corporate deals is affecting the company’s value, but he lacks evidence to prove it.
   
 [EXERCISE 1.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%201.sql)
 
@@ -21,3 +22,8 @@ In this repo I'm going to present my own Northwind SQL tasks using a Data Analys
   [EXERCISE 3.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%203.sql)
 
   ## Scenario #4 
+
+  In this exercise the COO needs us to check the internal shipping process on their warehouse due to the amount of complaints they have been receiving regarding packages
+  taking too long to be delivered.
+
+  [EXERCISE 4.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%204.sql)
