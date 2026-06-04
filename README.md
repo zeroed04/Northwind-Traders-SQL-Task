@@ -10,3 +10,5 @@ In this repo I'm going to present my own Northwind SQL tasks using a Data Analys
   ## Scenario #2
   Now the company wants to know if the quality of the service(On-Time Deliveries and Delays) they provide are up to a good standard.
   For this exercise we're gonna have to audit the deliveries one by one to find the information we need.
+
+[EXERCISE 2.sql](https://github.com/zeroed04/Northwind-Traders-SQL-Task/blob/main/EXERCISE%202.sql)
